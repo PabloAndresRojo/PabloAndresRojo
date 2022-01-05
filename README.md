@@ -6,9 +6,9 @@
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/PabloAndresRojo][github]
-- LinkedIn: [linkedin.com/in/pabloandresrojo][linkedin]
-- Site: [pablorojo.com.ar][site]
+- GitHub: [github.com/PabloAndresRojo](github.com/PabloAndresRojo)
+- LinkedIn: [linkedin.com/in/pabloandresrojo](linkedin.com/in/pabloandresrojo)
+- Site: [pablorojo.com.ar](pablorojo.com.ar)
 - E-mail: info@pablorojo.com.ar - p.rojopaz@gmail.com
 
 ## 🔧 Technologies & Tools
