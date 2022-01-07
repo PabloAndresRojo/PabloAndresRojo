@@ -1,8 +1,7 @@
 ### Hi 👋, I'm Pablo Rojo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on a freelance project (php, javascript and postgresql)
+- 🌱 I’m currently learning javascript.
 
 ### 📬 Get in Touch
 
